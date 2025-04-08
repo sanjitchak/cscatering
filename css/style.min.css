@@ -7597,8 +7597,9 @@ h5, h6, .font-weight-normal {
     background: #33211D;
 }
 .testimonial-carousel .owl-item img {
-    width: 140px;
-    height: 140px;
+   width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 .contact-form .help-block ul {
     margin: 0;
